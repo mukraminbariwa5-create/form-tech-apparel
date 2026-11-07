@@ -1,0 +1,61 @@
+{
+  "men": {
+    "description": "Structured shells, cargo silhouettes and overshirts, finished with shared essentials. This is a curated edit with shared sizing; check each product’s measurements for fit.",
+    "products": [
+      "aeroshell-jacket",
+      "ridge-pullover",
+      "traverse-parka",
+      "axis-softshell",
+      "vector-cargo-pant",
+      "meridian-travel-pant",
+      "summit-utility-pant",
+      "interval-tech-short",
+      "grid-fleece-midlayer",
+      "core-technical-tee",
+      "flux-overshirt",
+      "thermal-base-layer",
+      "module-sling-bag",
+      "transit-daypack",
+      "circuit-cap",
+      "fold-beanie",
+      "utility-belt",
+      "field-pouch"
+    ]
+  },
+  "women": {
+    "description": "Six new women’s designs alongside selected shared essentials: cropped and longline layers, a utility skirt, wide-leg trousers and shaped tops. Use each product’s own measurements; sizing varies between the capsule and shared pieces.",
+    "products": [
+      "halo-cropped-shell",
+      "linea-longline-vest",
+      "arc-utility-skirt",
+      "forma-wide-leg-trouser",
+      "nexa-contour-top",
+      "veil-wrap-overshirt",
+      "strata-rain-shell",
+      "horizon-windbreaker",
+      "contour-tapered-pant",
+      "drift-lightweight-pant",
+      "transit-vest",
+      "altitude-half-zip",
+      "core-technical-tee",
+      "grid-fleece-midlayer",
+      "module-sling-bag",
+      "transit-daypack",
+      "circuit-cap",
+      "fold-beanie",
+      "utility-belt",
+      "field-pouch"
+    ]
+  },
+  "womens-capsule": {
+    "description": "Six new women’s silhouettes, each in two colors. Explore cropped and longline layers, a utility skirt and wide-leg trousers. Check the capsule-specific measurements on each product.",
+    "products": [
+      "halo-cropped-shell",
+      "linea-longline-vest",
+      "arc-utility-skirt",
+      "forma-wide-leg-trouser",
+      "nexa-contour-top",
+      "veil-wrap-overshirt"
+    ]
+  }
+}

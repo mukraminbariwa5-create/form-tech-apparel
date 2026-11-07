@@ -1,0 +1,81 @@
+# Release template: verify locally and fill secure environment configuration before deployment.
+services:
+  app:
+    build:
+      context: .
+      target: application
+    env_file: '${APP_ENV_FILE:-.env.production}'
+    environment:
+      APP_ENV: production
+      APP_DEBUG: 'false'
+      DB_CONNECTION: pgsql
+      DB_HOST: pgsql
+      DB_PORT: 5432
+      CACHE_STORE: file
+      SESSION_DRIVER: database
+      SESSION_ENCRYPT: 'true'
+      SESSION_SECURE_COOKIE: 'true'
+      INERTIA_SSR_ENABLED: 'true'
+      INERTIA_SSR_URL: http://ssr:13714
+    volumes:
+      - runtime-storage:/var/www/html/storage
+    depends_on:
+      pgsql:
+        condition: service_healthy
+      ssr:
+        condition: service_healthy
+    restart: unless-stopped
+    healthcheck:
+      test: ['CMD', 'php-fpm', '-t']
+      interval: 30s
+      timeout: 5s
+      retries: 3
+  ssr:
+    build:
+      context: .
+      target: ssr
+    restart: unless-stopped
+    healthcheck:
+      test: ['CMD', 'node', '-e', 'fetch("http://127.0.0.1:13714/health").then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))']
+      interval: 15s
+      timeout: 5s
+      retries: 5
+  web:
+    build:
+      context: .
+      target: web
+    environment:
+      APP_DOMAIN: '${APP_DOMAIN:?Set the approved production domain}'
+    ports:
+      - '80:80'
+      - '443:443'
+    volumes:
+      - caddy-data:/data
+      - caddy-config:/config
+    depends_on:
+      - app
+    restart: unless-stopped
+    healthcheck:
+      test: ['CMD', 'wget', '-q', '--spider', 'http://localhost:8081/up']
+      interval: 30s
+      timeout: 5s
+      retries: 3
+  pgsql:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: '${DB_DATABASE:?Set DB_DATABASE}'
+      POSTGRES_USER: '${DB_USERNAME:?Set DB_USERNAME}'
+      POSTGRES_PASSWORD: '${DB_PASSWORD:?Set DB_PASSWORD}'
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U "$${POSTGRES_USER}" -d "$${POSTGRES_DB}"']
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+volumes:
+  runtime-storage:
+  postgres-data:
+  caddy-data:
+  caddy-config:

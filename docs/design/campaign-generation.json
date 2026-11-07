@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-29",
+  "method": "built-in imagegen",
+  "status": "generated sources saved and visually reviewed; browser crop/contrast and optimization pending",
+  "images": [
+    {
+      "path": "public/images/collections/technical-jackets.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: original FORM/TECH technical-apparel campaign photograph. Wide landscape editorial portrait of an adult Black male model in a silver technical hooded shell, three-quarter profile looking left, shoulder and upper torso visible, soft pale slate studio backdrop, architectural fashion, natural skin texture. Silver, slate, off-white, charcoal palette. Soft diffused premium editorial lighting, realistic fabrics and faces. No text, logos, watermarks, UI, letters, frame or collage."
+    },
+    {
+      "path": "public/images/collections/tech-pants.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: original FORM/TECH technical-apparel campaign photograph. Wide landscape editorial detail of an adult model walking in black technical cargo trousers, cropped from waist downward, entire pants and black shoes visible, angular thigh pockets and shaped knee seams, pale slate studio backdrop. Silver, slate, off-white, charcoal palette. Soft diffused premium editorial lighting, realistic fabrics and faces. No text, logos, watermarks, UI, letters, frame or collage."
+    },
+    {
+      "path": "public/images/collections/layering-systems.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: original FORM/TECH technical-apparel campaign photograph. Wide landscape editorial portrait of an adult Asian woman wearing a light stone utility vest over a white high-neck long sleeve base layer, natural dark straight hair, face and upper torso, pale slate studio backdrop, quiet futuristic technical fashion. Silver, slate, off-white, charcoal palette. Soft diffused premium editorial lighting, realistic fabrics and faces. No text, logos, watermarks, UI, letters, frame or collage."
+    },
+    {
+      "path": "public/images/campaign/mountain-editorial.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: original FORM/TECH technical-apparel campaign photograph. Very wide landscape editorial fashion photograph of a solitary adult model in a matte black technical shell and cargo trousers walking at the far right of a monumental concrete ramp and brutalist wall, dramatic snowy mountain peaks in the distance. Cool pale grey daylight. Left half mostly pale sky and light concrete negative space for black HTML headline overlay. Entire model visible, understated premium fashion campaign, natural realism. Silver, slate, off-white, charcoal palette. Soft diffused premium editorial lighting, realistic fabrics and faces. No text, logos, watermarks, UI, letters, frame or collage."
+    }
+  ]
+}

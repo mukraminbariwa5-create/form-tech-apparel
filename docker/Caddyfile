@@ -1,0 +1,21 @@
+{$APP_DOMAIN} {
+    root * /var/www/html/public
+    encode zstd gzip
+    php_fastcgi app:9000
+    file_server
+    header {
+        X-Content-Type-Options nosniff
+        Referrer-Policy strict-origin-when-cross-origin
+        X-Frame-Options SAMEORIGIN
+    }
+}
+
+# Internal health listener; this port is never published by Compose.
+:8081 {
+    root * /var/www/html/public
+    @health path /up
+    handle @health {
+        php_fastcgi app:9000
+    }
+    respond 404
+}

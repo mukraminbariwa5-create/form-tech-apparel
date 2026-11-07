@@ -1,0 +1,101 @@
+{
+  "method": "built-in imagegen; product-mockup followed by precise-object-edit",
+  "status": "All twelve photographs visually reviewed and saved in the project; originals preserved",
+  "images": [
+    {
+      "slug": "halo-cropped-shell",
+      "color": "Silver",
+      "prompt": "Use case: product-mockup. Create one photorealistic premium e-commerce garment photograph for fictional technical-apparel brand FORM/TECH. Product: Halo Cropped Shell, a distinctly women's cropped boxy technical jacket with a gently shaped waist, generous sculpted hood, full dark central front zip, long articulated raglan sleeves, adjustable cuff tabs, two angled zipped side pockets, subtly curved cropped hip-length hem. Main fabric SILVER (#BFC4C8), dark graphite zipper pulls and hardware. Show one entire empty garment in a straight-on front view using invisible ghost mannequin styling, no body, no visible mannequin, no hanger. Match a restrained architectural technical fashion catalog: pale cool grey (#ECEEF0) seamless studio background, soft diffused light, realistic matte lightly crinkled woven fabric, delicate contact shadow. Portrait 4:5 composition, garment centered, evenly framed with 8-12 percent empty margin, premium sharp stitching and construction detail. No text, branding, logos, props, collage, inset, human, extra garment or accessories. Output a high-quality PNG product image.",
+      "path": "C:\\Users\\mukra\\.codex\\generated_images\\01a1a79d-ee66-7b31-af42-6f4a08480229\\exec-2ceb4530-99af-44ca-b11f-a8c017592fd4.png",
+      "target": "public/images/products/halo-cropped-shell-silver.png"
+    },
+    {
+      "slug": "linea-longline-vest",
+      "color": "Stone",
+      "subject": "Linea Longline Vest: a women's sleeveless longline utility vest reaching mid-thigh, softly shaped waist, tall stand collar, full dark center zipper, two discreet vertical welt pockets, elegant straight split hem, lightly structured matte woven fabric. Main fabric pale warm STONE (#C6C2B6), graphite hardware.",
+      "prompt": "Use case: product-mockup. Create one photorealistic premium e-commerce garment photograph for fictional technical-apparel brand FORM/TECH. Product: Linea Longline Vest: a women's sleeveless longline utility vest reaching mid-thigh, softly shaped waist, tall stand collar, full dark center zipper, two discreet vertical welt pockets, elegant straight split hem, lightly structured matte woven fabric. Main fabric pale warm STONE (#C6C2B6), graphite hardware. Show one entire empty garment in straight-on front view using invisible ghost mannequin styling, no body, visible mannequin, hanger or model. Pale cool grey (#ECEEF0) seamless studio background, soft diffused light, realistic natural textile texture and fine stitching, subtle contact shadow. Portrait 4:5 composition with the entire garment centered and evenly framed with 8-12 percent margin. Restrained premium technical fashion, matching a clean grey studio catalog. No text, logos, branding, props, collage, inset, human, extra garment or accessories. High-quality PNG.",
+      "path": "C:\\Users\\mukra\\.codex\\generated_images\\01a1a79d-ee66-7b31-af42-6f4a08480229\\exec-d57c1f40-9c2c-4c1d-a128-e9010dcc98b6.png",
+      "target": "public/images/products/linea-longline-vest-stone.png"
+    },
+    {
+      "slug": "arc-utility-skirt",
+      "color": "Charcoal",
+      "subject": "Arc Utility Skirt: a women's architectural midi A-line skirt, defined flat high waistband, asymmetrical overlapping wrap-front panel with a diagonal seam, one neat rectangular utility flap pocket on the left front side, small dark side buckle, modest center opening below the overlapping panel, no belt dangling. Main fabric CHARCOAL (#363C42), graphite hardware.",
+      "prompt": "Use case: product-mockup. Create one photorealistic premium e-commerce garment photograph for fictional technical-apparel brand FORM/TECH. Product: Arc Utility Skirt: a women's architectural midi A-line skirt, defined flat high waistband, asymmetrical overlapping wrap-front panel with a diagonal seam, one neat rectangular utility flap pocket on the left front side, small dark side buckle, modest center opening below the overlapping panel, no belt dangling. Main fabric CHARCOAL (#363C42), graphite hardware. Show one entire empty garment in straight-on front view using invisible ghost mannequin styling, no body, visible mannequin, hanger or model. Pale cool grey (#ECEEF0) seamless studio background, soft diffused light, realistic natural textile texture and fine stitching, subtle contact shadow. Portrait 4:5 composition with the entire garment centered and evenly framed with 8-12 percent margin. Restrained premium technical fashion, matching a clean grey studio catalog. No text, logos, branding, props, collage, inset, human, extra garment or accessories. High-quality PNG.",
+      "path": "C:\\Users\\mukra\\.codex\\generated_images\\01a1a79d-ee66-7b31-af42-6f4a08480229\\exec-6babfcd2-6c9c-434e-80de-8c4098ff58a9.png",
+      "target": "public/images/products/arc-utility-skirt-charcoal.png"
+    },
+    {
+      "slug": "forma-wide-leg-trouser",
+      "color": "Stone",
+      "subject": "Forma Wide-Leg Trouser: women's high-waisted full-length technical trousers with a clearly defined contoured waistband, two forward pleats, generous straight wide legs, slanted hand pockets, clean hem, no cargo pockets and no elastic ankle cuffs. Main fabric pale warm STONE (#C6C2B6), discreet graphite fastening.",
+      "prompt": "Use case: product-mockup. Create one photorealistic premium e-commerce garment photograph for fictional technical-apparel brand FORM/TECH. Product: Forma Wide-Leg Trouser: women's high-waisted full-length technical trousers with a clearly defined contoured waistband, two forward pleats, generous straight wide legs, slanted hand pockets, clean hem, no cargo pockets and no elastic ankle cuffs. Main fabric pale warm STONE (#C6C2B6), discreet graphite fastening. Show one entire empty garment in straight-on front view using invisible ghost mannequin styling, no body, visible mannequin, hanger or model. Pale cool grey (#ECEEF0) seamless studio background, soft diffused light, realistic natural textile texture and fine stitching, subtle contact shadow. Portrait 4:5 composition with the entire garment centered and evenly framed with 8-12 percent margin. Restrained premium technical fashion, matching a clean grey studio catalog. No text, logos, branding, props, collage, inset, human, extra garment or accessories. High-quality PNG.",
+      "path": "C:\\Users\\mukra\\.codex\\generated_images\\01a1a79d-ee66-7b31-af42-6f4a08480229\\exec-e928821d-90a5-444a-a724-83a23bf7a1c5.png",
+      "target": "public/images/products/forma-wide-leg-trouser-stone.png"
+    },
+    {
+      "slug": "nexa-contour-top",
+      "color": "Black",
+      "subject": "Nexa Contour Top: a women's sleeveless close-shaped technical layering top, elegant high crew neckline, contoured princess seam panels, fitted waist, slightly cropped high-hip hem, substantial matte smooth knit fabric, clean armholes. Main fabric deep BLACK (#16191C). Not underwear, no cutouts or exposed cleavage, no zipper.",
+      "prompt": "Use case: product-mockup. Create one photorealistic premium e-commerce garment photograph for fictional technical-apparel brand FORM/TECH. Product: Nexa Contour Top: a women's sleeveless close-shaped technical layering top, elegant high crew neckline, contoured princess seam panels, fitted waist, slightly cropped high-hip hem, substantial matte smooth knit fabric, clean armholes. Main fabric deep BLACK (#16191C). Not underwear, no cutouts or exposed cleavage, no zipper. Show one entire empty garment in straight-on front view using invisible ghost mannequin styling, no body, visible mannequin, hanger or model. Pale cool grey (#ECEEF0) seamless studio background, soft diffused light, realistic natural textile texture and fine stitching, subtle contact shadow. Portrait 4:5 composition with the entire garment centered and evenly framed with 8-12 percent margin. Restrained premium technical fashion, matching a clean grey studio catalog. No text, logos, branding, props, collage, inset, human, extra garment or accessories. High-quality PNG.",
+      "path": "C:\\Users\\mukra\\.codex\\generated_images\\01a1a79d-ee66-7b31-af42-6f4a08480229\\exec-3a6edf3c-1ec0-44c1-96d1-d02b13ad569b.png",
+      "target": "public/images/products/nexa-contour-top-black.png"
+    },
+    {
+      "slug": "veil-wrap-overshirt",
+      "color": "White",
+      "subject": "Veil Wrap Overshirt: a women's architectural long-sleeve technical overshirt, low stand collar, distinctive asymmetric wrap front crossing diagonally, a neat integrated narrow side waist tie, subtly shaped waist and cropped hip-length hem, gently voluminous sleeves with clean cuffs. Main fabric soft WHITE (#F4F5F2), no chest pockets or conventional center button placket.",
+      "prompt": "Use case: product-mockup. Create one photorealistic premium e-commerce garment photograph for fictional technical-apparel brand FORM/TECH. Product: Veil Wrap Overshirt: a women's architectural long-sleeve technical overshirt, low stand collar, distinctive asymmetric wrap front crossing diagonally, a neat integrated narrow side waist tie, subtly shaped waist and cropped hip-length hem, gently voluminous sleeves with clean cuffs. Main fabric soft WHITE (#F4F5F2), no chest pockets or conventional center button placket. Show one entire empty garment in straight-on front view using invisible ghost mannequin styling, no body, visible mannequin, hanger or model. Pale cool grey (#ECEEF0) seamless studio background, soft diffused light, realistic natural textile texture and fine stitching, subtle contact shadow. Portrait 4:5 composition with the entire garment centered and evenly framed with 8-12 percent margin. Restrained premium technical fashion, matching a clean grey studio catalog. No text, logos, branding, props, collage, inset, human, extra garment or accessories. High-quality PNG.",
+      "path": "C:\\Users\\mukra\\.codex\\generated_images\\01a1a79d-ee66-7b31-af42-6f4a08480229\\exec-47b53346-e357-4474-b39d-9631f6a2beba.png",
+      "target": "public/images/products/veil-wrap-overshirt-white.png"
+    },
+    {
+      "slug": "halo-cropped-shell",
+      "color": "Charcoal",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied halo-cropped-shell FORM/TECH product photograph. Produce its alternate CHARCOAL (#363C42) colorway. Change ONLY the color of the main fabric, including matching fabric waistband, cuffs, collar, pocket flaps and fabric tie if present. Preserve exactly the garment shape, seams, construction, texture, panels, closures, position, pose, proportions, image dimensions, crop, pale grey background, lighting and contact shadow. Maintain natural highlights and shadows on the recolored fabric. Keep original zipper pulls, buckles and hardware dark. This must be the exact same garment photograph recolored, not a new design. No text, logo, added item, new hardware, collage, human or watermark. Save a new image; preserve the source.",
+      "path": "C:\\Users\\mukra\\.codex\\generated_images\\01a1a79d-ee66-7b31-af42-6f4a08480229\\exec-4fc654e0-88e5-4c3a-8379-a0e2d47c92a3.png",
+      "reference": "C:/Users/mukra/OneDrive/Documents/PROJECTS/form-tech-apparel/public/images/products/halo-cropped-shell-silver.png",
+      "target": "public/images/products/halo-cropped-shell-charcoal.png"
+    },
+    {
+      "slug": "linea-longline-vest",
+      "color": "Black",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied linea-longline-vest FORM/TECH product photograph. Produce its alternate BLACK (#16191C) colorway. Change ONLY the color of the main fabric, including matching fabric waistband, cuffs, collar, pocket flaps and fabric tie if present. Preserve exactly the garment shape, seams, construction, texture, panels, closures, position, pose, proportions, image dimensions, crop, pale grey background, lighting and contact shadow. Maintain natural highlights and shadows on the recolored fabric. Keep original zipper pulls, buckles and hardware dark. This must be the exact same garment photograph recolored, not a new design. No text, logo, added item, new hardware, collage, human or watermark. Save a new image; preserve the source.",
+      "path": "C:\\Users\\mukra\\.codex\\generated_images\\01a1a79d-ee66-7b31-af42-6f4a08480229\\exec-6299c9a3-5fb7-4164-842b-8fc3e42cfac5.png",
+      "reference": "C:/Users/mukra/OneDrive/Documents/PROJECTS/form-tech-apparel/public/images/products/linea-longline-vest-stone.png",
+      "target": "public/images/products/linea-longline-vest-black.png"
+    },
+    {
+      "slug": "arc-utility-skirt",
+      "color": "Olive",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied arc-utility-skirt FORM/TECH product photograph. Produce its alternate OLIVE (#73765A) colorway. Change ONLY the color of the main fabric, including matching fabric waistband, cuffs, collar, pocket flaps and fabric tie if present. Preserve exactly the garment shape, seams, construction, texture, panels, closures, position, pose, proportions, image dimensions, crop, pale grey background, lighting and contact shadow. Maintain natural highlights and shadows on the recolored fabric. Keep original zipper pulls, buckles and hardware dark. This must be the exact same garment photograph recolored, not a new design. No text, logo, added item, new hardware, collage, human or watermark. Save a new image; preserve the source.",
+      "path": "C:\\Users\\mukra\\.codex\\generated_images\\01a1a79d-ee66-7b31-af42-6f4a08480229\\exec-7a1ef1ea-9db5-4332-871e-b49c518d2038.png",
+      "reference": "C:/Users/mukra/OneDrive/Documents/PROJECTS/form-tech-apparel/public/images/products/arc-utility-skirt-charcoal.png",
+      "target": "public/images/products/arc-utility-skirt-olive.png"
+    },
+    {
+      "slug": "forma-wide-leg-trouser",
+      "color": "Black",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied forma-wide-leg-trouser FORM/TECH product photograph. Produce its alternate BLACK (#16191C) colorway. Change ONLY the color of the main fabric, including matching fabric waistband, cuffs, collar, pocket flaps and fabric tie if present. Preserve exactly the garment shape, seams, construction, texture, panels, closures, position, pose, proportions, image dimensions, crop, pale grey background, lighting and contact shadow. Maintain natural highlights and shadows on the recolored fabric. Keep original zipper pulls, buckles and hardware dark. This must be the exact same garment photograph recolored, not a new design. No text, logo, added item, new hardware, collage, human or watermark. Save a new image; preserve the source.",
+      "path": "C:\\Users\\mukra\\.codex\\generated_images\\01a1a79d-ee66-7b31-af42-6f4a08480229\\exec-82bfc99e-20d2-4001-bf1e-8448bfc415d6.png",
+      "reference": "C:/Users/mukra/OneDrive/Documents/PROJECTS/form-tech-apparel/public/images/products/forma-wide-leg-trouser-stone.png",
+      "target": "public/images/products/forma-wide-leg-trouser-black.png"
+    },
+    {
+      "slug": "nexa-contour-top",
+      "color": "Cobalt",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied nexa-contour-top FORM/TECH product photograph. Produce its alternate COBALT (#145DFF) colorway. Change ONLY the color of the main fabric, including matching fabric waistband, cuffs, collar, pocket flaps and fabric tie if present. Preserve exactly the garment shape, seams, construction, texture, panels, closures, position, pose, proportions, image dimensions, crop, pale grey background, lighting and contact shadow. Maintain natural highlights and shadows on the recolored fabric. Keep original zipper pulls, buckles and hardware dark. This must be the exact same garment photograph recolored, not a new design. No text, logo, added item, new hardware, collage, human or watermark. Save a new image; preserve the source.",
+      "path": "C:\\Users\\mukra\\.codex\\generated_images\\01a1a79d-ee66-7b31-af42-6f4a08480229\\exec-6f089ff1-e37b-4954-9186-f7e185f7ba5c.png",
+      "reference": "C:/Users/mukra/OneDrive/Documents/PROJECTS/form-tech-apparel/public/images/products/nexa-contour-top-black.png",
+      "target": "public/images/products/nexa-contour-top-cobalt.png"
+    },
+    {
+      "slug": "veil-wrap-overshirt",
+      "color": "Slate",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied veil-wrap-overshirt FORM/TECH product photograph. Produce its alternate SLATE (#697984) colorway. Change ONLY the color of the main fabric, including matching fabric waistband, cuffs, collar, pocket flaps and fabric tie if present. Preserve exactly the garment shape, seams, construction, texture, panels, closures, position, pose, proportions, image dimensions, crop, pale grey background, lighting and contact shadow. Maintain natural highlights and shadows on the recolored fabric. Keep original zipper pulls, buckles and hardware dark. This must be the exact same garment photograph recolored, not a new design. No text, logo, added item, new hardware, collage, human or watermark. Save a new image; preserve the source.",
+      "path": "C:\\Users\\mukra\\.codex\\generated_images\\01a1a79d-ee66-7b31-af42-6f4a08480229\\exec-bfbb0d20-c3f0-4ad1-81f9-a09c6c3b2869.png",
+      "reference": "C:/Users/mukra/OneDrive/Documents/PROJECTS/form-tech-apparel/public/images/products/veil-wrap-overshirt-white.png",
+      "target": "public/images/products/veil-wrap-overshirt-slate.png"
+    }
+  ]
+}

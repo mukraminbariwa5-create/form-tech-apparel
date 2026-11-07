@@ -1,0 +1,39 @@
+{
+  "context": "Local Docker development server, Chromium, 1366x768, fresh browser context per route; no CPU/network throttling. Single samples, not production/field scores.",
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "ttfbMs": 273,
+      "domContentLoadedMs": 400,
+      "lcpMs": 400,
+      "cls": 0,
+      "transferredBytes": 757761,
+      "brokenImages": 0,
+      "heroPriority": "high",
+      "thirdPartyRequests": 0
+    },
+    {
+      "path": "/shop",
+      "status": 200,
+      "ttfbMs": 262,
+      "domContentLoadedMs": 359,
+      "lcpMs": 404,
+      "cls": 0,
+      "transferredBytes": 645000,
+      "brokenImages": 0,
+      "thirdPartyRequests": 0
+    },
+    {
+      "path": "/products/aeroshell-jacket",
+      "status": 200,
+      "ttfbMs": 255,
+      "domContentLoadedMs": 375,
+      "lcpMs": 360,
+      "cls": 0,
+      "transferredBytes": 559970,
+      "brokenImages": 0,
+      "thirdPartyRequests": 0
+    }
+  ]
+}

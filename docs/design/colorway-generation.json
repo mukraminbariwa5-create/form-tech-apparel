@@ -1,0 +1,174 @@
+{
+  "method": "built-in imagegen, precise-object-edit",
+  "status": "24 alternate colorways saved; originals preserved; Summit corrected to a uniform Stone waistband",
+  "images": [
+    {
+      "slug": "aeroshell-jacket",
+      "color": "Charcoal",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-fae7b612-fa45-4301-87d3-f7a0ac404ce9.png",
+      "target": "public/images/products/aeroshell-jacket-charcoal.png",
+      "prompt": "Recolor only AeroShell silver fabric to charcoal; preserve construction and studio photograph."
+    },
+    {
+      "slug": "ridge-pullover",
+      "color": "Silver",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-190e818a-3017-4ff3-b1f8-b034ba374147.png",
+      "target": "public/images/products/ridge-pullover-silver.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH ridge-pullover catalog product photograph. Create its alternate SILVER colorway (#BFC4C8). Change ONLY the main garment fabric color, with natural highlights and shadows preserving all texture. Preserve exactly the garment construction, silhouette, seams, pockets, zipper/cuff details, hardware, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep hardware, drawcords and buckles dark. Single entire garment; no new parts, no text, no labels, no logo, no collage. Photorealistic product photo. Save as a new asset, never overwrite reference."
+    },
+    {
+      "slug": "strata-rain-shell",
+      "color": "Stone",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-51c5825f-9b2c-49a7-bad3-f625d4089dfe.png",
+      "target": "public/images/products/strata-rain-shell-stone.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH strata-rain-shell catalog product photograph. Create its alternate STONE colorway (#C6C2B6). Change ONLY the main garment fabric color, with natural highlights and shadows preserving all texture. Preserve exactly the garment construction, silhouette, seams, pockets, zipper/cuff details, hardware, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep hardware, drawcords and buckles dark. Single entire garment; no new parts, no text, no labels, no logo, no collage. Photorealistic product photo. Save as a new asset, never overwrite reference."
+    },
+    {
+      "slug": "horizon-windbreaker",
+      "color": "Charcoal",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-99c9db61-334e-4658-ba93-0195876c75f4.png",
+      "target": "public/images/products/horizon-windbreaker-charcoal.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH horizon-windbreaker catalog product photograph. Create its alternate CHARCOAL colorway (#363C42). Change ONLY the main garment fabric color, with natural highlights and shadows preserving all texture. Preserve exactly the garment construction, silhouette, seams, pockets, zipper/cuff details, hardware, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep hardware, drawcords and buckles dark. Single entire garment; no new parts, no text, no labels, no logo, no collage. Photorealistic product photo. Save as a new asset, never overwrite reference."
+    },
+    {
+      "slug": "traverse-parka",
+      "color": "Olive",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-b7694925-5bea-4485-97b8-14ff495e8695.png",
+      "target": "public/images/products/traverse-parka-olive.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH traverse-parka catalog product photograph. Create its alternate OLIVE colorway (#73765A). Change ONLY the main garment fabric color, with natural highlights and shadows preserving all texture. Preserve exactly the garment construction, silhouette, seams, pockets, zipper/cuff details, hardware, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep hardware, drawcords and buckles dark. Single entire garment; no new parts, no text, no labels, no logo, no collage. Photorealistic product photo. Save as a new asset, never overwrite reference."
+    },
+    {
+      "slug": "axis-softshell",
+      "color": "Black",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-26754040-1800-4cc3-ae71-ba7428f23638.png",
+      "target": "public/images/products/axis-softshell-black.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH axis-softshell catalog product photograph. Create its alternate BLACK colorway (#16191C). Change ONLY the main garment fabric color, with natural highlights and shadows preserving all texture. Preserve exactly the garment construction, silhouette, seams, pockets, zipper/cuff details, hardware, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep hardware, drawcords and buckles dark. Single entire garment; no new parts, no text, no labels, no logo, no collage. Photorealistic product photo. Save as a new asset, never overwrite reference."
+    },
+    {
+      "slug": "vector-cargo-pant",
+      "color": "Olive",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-2ecd7c96-e918-480d-b256-7e73d592ab68.png",
+      "target": "public/images/products/vector-cargo-pant-olive.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH vector-cargo-pant catalog product photograph. Create its alternate OLIVE colorway (#73765A). Change ONLY the main garment fabric color, with natural highlights and shadows preserving all texture. Preserve exactly the garment construction, silhouette, seams, pockets, zipper/cuff details, hardware, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep hardware, drawcords and buckles dark. Single entire garment; no new parts, no text, no labels, no logo, no collage. Photorealistic product photo. Save as a new asset, never overwrite reference."
+    },
+    {
+      "slug": "meridian-travel-pant",
+      "color": "Black",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-0af35233-8465-462e-89bc-f7fd55187c5d.png",
+      "target": "public/images/products/meridian-travel-pant-black.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH meridian-travel-pant catalog photograph. Create its alternate BLACK colorway (#16191C). Change ONLY the main fabric color to Black, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "contour-tapered-pant",
+      "color": "Slate",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-cb868f11-ccae-4030-923d-a9c62a403996.png",
+      "target": "public/images/products/contour-tapered-pant-slate.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH contour-tapered-pant catalog photograph. Create its alternate SLATE colorway (#697984). Change ONLY the main fabric color to Slate, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "summit-utility-pant",
+      "color": "Stone",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-9cf8cb0c-ad6c-469b-809f-d9bcb0e793d3.png",
+      "target": "public/images/products/summit-utility-pant-stone.png",
+      "prompt": "Recolor all trousers fabric, including complete waistband and belt loops, to Stone #C6C2B6. Preserve construction; no olive trim, belt, or new accessory. Keep dark hardware, studio background and framing."
+    },
+    {
+      "slug": "drift-lightweight-pant",
+      "color": "Black",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-26715496-06b8-435f-94b7-d16b803971c8.png",
+      "target": "public/images/products/drift-lightweight-pant-black.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH drift-lightweight-pant catalog photograph. Create its alternate BLACK colorway (#16191C). Change ONLY the main fabric color to Black, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "interval-tech-short",
+      "color": "Olive",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-945129c5-61a9-404d-8f70-7e4734a9f97d.png",
+      "target": "public/images/products/interval-tech-short-olive.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH interval-tech-short catalog photograph. Create its alternate OLIVE colorway (#73765A). Change ONLY the main fabric color to Olive, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "transit-vest",
+      "color": "Charcoal",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-5d93cb50-7a61-4481-8cdd-aec45affeeb6.png",
+      "target": "public/images/products/transit-vest-charcoal.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH transit-vest catalog photograph. Create its alternate CHARCOAL colorway (#363C42). Change ONLY the main fabric color to Charcoal, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "grid-fleece-midlayer",
+      "color": "Stone",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-be9317d6-d50d-423a-b84b-9bc8c7beec01.png",
+      "target": "public/images/products/grid-fleece-midlayer-stone.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH grid-fleece-midlayer catalog photograph. Create its alternate STONE colorway (#C6C2B6). Change ONLY the main fabric color to Stone, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "core-technical-tee",
+      "color": "Black",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-154ea562-1267-408a-8fef-4d7666da787c.png",
+      "target": "public/images/products/core-technical-tee-black.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH core-technical-tee catalog photograph. Create its alternate BLACK colorway (#16191C). Change ONLY the main fabric color to Black, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "altitude-half-zip",
+      "color": "Silver",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-5ca650e2-1868-41c4-84b2-a3ff6658fe75.png",
+      "target": "public/images/products/altitude-half-zip-silver.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH altitude-half-zip catalog photograph. Create its alternate SILVER colorway (#BFC4C8). Change ONLY the main fabric color to Silver, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "flux-overshirt",
+      "color": "Stone",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-9b8fa8cd-8b7b-45d6-88ff-2ecf189d92c6.png",
+      "target": "public/images/products/flux-overshirt-stone.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH flux-overshirt catalog photograph. Create its alternate STONE colorway (#C6C2B6). Change ONLY the main fabric color to Stone, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "thermal-base-layer",
+      "color": "Slate",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-dd6aebc2-c62a-436b-983e-040e78b77191.png",
+      "target": "public/images/products/thermal-base-layer-slate.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH thermal-base-layer catalog photograph. Create its alternate SLATE colorway (#697984). Change ONLY the main fabric color to Slate, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "module-sling-bag",
+      "color": "Olive",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-f46cdc48-215d-4263-b3fc-6bd5bb58c843.png",
+      "target": "public/images/products/module-sling-bag-olive.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH module-sling-bag catalog photograph. Create its alternate OLIVE colorway (#73765A). Change ONLY the main fabric color to Olive, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "transit-daypack",
+      "color": "Black",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-d89f8078-89af-4363-afea-ccef90a7dd58.png",
+      "target": "public/images/products/transit-daypack-black.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH transit-daypack catalog photograph. Create its alternate BLACK colorway (#16191C). Change ONLY the main fabric color to Black, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "circuit-cap",
+      "color": "Stone",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-75ac1475-b424-46ec-b312-15ac4b4bdb9b.png",
+      "target": "public/images/products/circuit-cap-stone.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH circuit-cap catalog photograph. Create its alternate STONE colorway (#C6C2B6). Change ONLY the main fabric color to Stone, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "fold-beanie",
+      "color": "Olive",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-eefe43a1-b6ec-4dda-86e3-4a597ea277e8.png",
+      "target": "public/images/products/fold-beanie-olive.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH fold-beanie catalog photograph. Create its alternate OLIVE colorway (#73765A). Change ONLY the main fabric color to Olive, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "utility-belt",
+      "color": "Olive",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-1054db0a-55a4-467b-bbdf-53c19112900d.png",
+      "target": "public/images/products/utility-belt-olive.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH utility-belt catalog photograph. Create its alternate OLIVE colorway (#73765A). Change ONLY the main fabric color to Olive, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    },
+    {
+      "slug": "field-pouch",
+      "color": "Black",
+      "source": "C:\\Users\\mukra\\.codex\\generated_images\\01a18875-5fdc-7522-ae49-0957544bf516\\exec-2db2cc1a-2947-4e67-99d9-5f8d306ec755.png",
+      "target": "public/images/products/field-pouch-black.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied FORM/TECH field-pouch catalog photograph. Create its alternate BLACK colorway (#16191C). Change ONLY the main fabric color to Black, with natural highlights and shadows preserving all fabric texture. Preserve exactly the original product design, construction, silhouette, seams, pockets, closures, accessories, pose, front view, framing, margins, image proportions, pale grey studio background and shadow. Keep all hardware, buckles, zipper pulls, webbing straps and wrist loops their original dark color, EXCEPT on the utility belt recolor the main belt webbing to olive while retaining the black buckle. Single entire product; no new parts, no text, no labels, no logo, no collage. Photorealistic matching catalog photo. Save as a new asset, never overwrite the reference."
+    }
+  ]
+}

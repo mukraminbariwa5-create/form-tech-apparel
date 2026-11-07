@@ -1,0 +1,47 @@
+services:
+  laravel.test:
+    build:
+      context: ./docker/development
+      dockerfile: Dockerfile
+      args:
+        WWWGROUP: '${WWWGROUP:-1000}'
+    image: form-tech-sail:8.4
+    ports:
+      - '127.0.0.1:${APP_PORT:-8080}:80'
+      - '127.0.0.1:${VITE_PORT:-5173}:5173'
+      - '127.0.0.1:${E2E_PORT:-8081}:8081'
+    environment:
+      WWWUSER: '${WWWUSER:-1000}'
+      LARAVEL_SAIL: 1
+      XDEBUG_MODE: off
+    volumes:
+      - '.:/var/www/html'
+      - 'vendor-dependencies:/var/www/html/vendor'
+      - 'node-dependencies:/var/www/html/node_modules'
+      - './docker/php-development.ini:/etc/php/8.4/cli/conf.d/99-form-tech.ini:ro'
+    depends_on:
+      pgsql:
+        condition: service_healthy
+  pgsql:
+    image: postgres:17-alpine
+    ports:
+      - '127.0.0.1:${FORWARD_DB_PORT:-5432}:5432'
+    environment:
+      POSTGRES_DB: '${DB_DATABASE:-form_tech}'
+      POSTGRES_USER: '${DB_USERNAME:-sail}'
+      POSTGRES_PASSWORD: '${DB_PASSWORD:?Set DB_PASSWORD in .env}'
+    volumes:
+      - 'form-tech-pgsql:/var/lib/postgresql/data'
+      - './docker/create-testing-database.sql:/docker-entrypoint-initdb.d/10-testing.sql:ro'
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U "$${POSTGRES_USER}" -d "$${POSTGRES_DB}"']
+      retries: 5
+      timeout: 5s
+volumes:
+  form-tech-pgsql:
+  vendor-dependencies:
+    name: form-tech-apparel-php-deps
+    external: true
+  node-dependencies:
+    name: form-tech-apparel-node
+    external: true

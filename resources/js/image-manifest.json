@@ -1,0 +1,1452 @@
+{
+  "/images/campaign/form-tech-concrete-hero.png": {
+    "width": 1774,
+    "height": 887,
+    "sources": [
+      {
+        "url": "/images/responsive/campaign/form-tech-concrete-hero-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/campaign/form-tech-concrete-hero-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/campaign/form-tech-concrete-hero-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/campaign/form-tech-concrete-hero-1440.webp",
+        "width": 1440
+      },
+      {
+        "url": "/images/responsive/campaign/form-tech-concrete-hero-1774.webp",
+        "width": 1774
+      }
+    ]
+  },
+  "/images/campaign/mountain-editorial.png": {
+    "width": 1916,
+    "height": 821,
+    "sources": [
+      {
+        "url": "/images/responsive/campaign/mountain-editorial-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/campaign/mountain-editorial-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/campaign/mountain-editorial-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/campaign/mountain-editorial-1440.webp",
+        "width": 1440
+      },
+      {
+        "url": "/images/responsive/campaign/mountain-editorial-1916.webp",
+        "width": 1916
+      }
+    ]
+  },
+  "/images/collections/layering-systems.png": {
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      {
+        "url": "/images/responsive/collections/layering-systems-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/collections/layering-systems-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/collections/layering-systems-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/collections/layering-systems-1440.webp",
+        "width": 1440
+      },
+      {
+        "url": "/images/responsive/collections/layering-systems-1536.webp",
+        "width": 1536
+      }
+    ]
+  },
+  "/images/collections/tech-pants.png": {
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      {
+        "url": "/images/responsive/collections/tech-pants-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/collections/tech-pants-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/collections/tech-pants-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/collections/tech-pants-1440.webp",
+        "width": 1440
+      },
+      {
+        "url": "/images/responsive/collections/tech-pants-1536.webp",
+        "width": 1536
+      }
+    ]
+  },
+  "/images/collections/technical-jackets.png": {
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      {
+        "url": "/images/responsive/collections/technical-jackets-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/collections/technical-jackets-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/collections/technical-jackets-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/collections/technical-jackets-1440.webp",
+        "width": 1440
+      },
+      {
+        "url": "/images/responsive/collections/technical-jackets-1536.webp",
+        "width": 1536
+      }
+    ]
+  },
+  "/images/products/aeroshell-jacket-charcoal.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/aeroshell-jacket-charcoal-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/aeroshell-jacket-charcoal-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/aeroshell-jacket-charcoal-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/aeroshell-jacket-charcoal-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/aeroshell-jacket.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/aeroshell-jacket-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/aeroshell-jacket-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/aeroshell-jacket-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/aeroshell-jacket-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/altitude-half-zip-silver.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/altitude-half-zip-silver-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/altitude-half-zip-silver-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/altitude-half-zip-silver-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/altitude-half-zip-silver-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/altitude-half-zip.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/altitude-half-zip-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/altitude-half-zip-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/altitude-half-zip-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/altitude-half-zip-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/arc-utility-skirt-charcoal.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/arc-utility-skirt-charcoal-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/arc-utility-skirt-charcoal-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/arc-utility-skirt-charcoal-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/arc-utility-skirt-charcoal-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/arc-utility-skirt-olive.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/arc-utility-skirt-olive-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/arc-utility-skirt-olive-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/arc-utility-skirt-olive-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/arc-utility-skirt-olive-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/axis-softshell-black.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/axis-softshell-black-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/axis-softshell-black-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/axis-softshell-black-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/axis-softshell-black-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/axis-softshell.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/axis-softshell-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/axis-softshell-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/axis-softshell-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/axis-softshell-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/circuit-cap-stone.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/circuit-cap-stone-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/circuit-cap-stone-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/circuit-cap-stone-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/circuit-cap-stone-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/circuit-cap.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/circuit-cap-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/circuit-cap-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/circuit-cap-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/circuit-cap-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/contour-tapered-pant-slate.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/contour-tapered-pant-slate-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/contour-tapered-pant-slate-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/contour-tapered-pant-slate-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/contour-tapered-pant-slate-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/contour-tapered-pant.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/contour-tapered-pant-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/contour-tapered-pant-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/contour-tapered-pant-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/contour-tapered-pant-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/core-technical-tee-black.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/core-technical-tee-black-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/core-technical-tee-black-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/core-technical-tee-black-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/core-technical-tee-black-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/core-technical-tee.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/core-technical-tee-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/core-technical-tee-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/core-technical-tee-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/core-technical-tee-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/drift-lightweight-pant-black.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/drift-lightweight-pant-black-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/drift-lightweight-pant-black-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/drift-lightweight-pant-black-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/drift-lightweight-pant-black-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/drift-lightweight-pant.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/drift-lightweight-pant-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/drift-lightweight-pant-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/drift-lightweight-pant-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/drift-lightweight-pant-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/field-pouch-black.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/field-pouch-black-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/field-pouch-black-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/field-pouch-black-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/field-pouch-black-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/field-pouch.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/field-pouch-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/field-pouch-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/field-pouch-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/field-pouch-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/flux-overshirt-stone.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/flux-overshirt-stone-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/flux-overshirt-stone-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/flux-overshirt-stone-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/flux-overshirt-stone-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/flux-overshirt.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/flux-overshirt-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/flux-overshirt-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/flux-overshirt-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/flux-overshirt-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/fold-beanie-olive.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/fold-beanie-olive-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/fold-beanie-olive-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/fold-beanie-olive-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/fold-beanie-olive-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/fold-beanie.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/fold-beanie-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/fold-beanie-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/fold-beanie-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/fold-beanie-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/forma-wide-leg-trouser-black.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/forma-wide-leg-trouser-black-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/forma-wide-leg-trouser-black-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/forma-wide-leg-trouser-black-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/forma-wide-leg-trouser-black-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/forma-wide-leg-trouser-stone.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/forma-wide-leg-trouser-stone-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/forma-wide-leg-trouser-stone-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/forma-wide-leg-trouser-stone-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/forma-wide-leg-trouser-stone-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/grid-fleece-midlayer-stone.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/grid-fleece-midlayer-stone-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/grid-fleece-midlayer-stone-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/grid-fleece-midlayer-stone-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/grid-fleece-midlayer-stone-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/grid-fleece-midlayer.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/grid-fleece-midlayer-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/grid-fleece-midlayer-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/grid-fleece-midlayer-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/grid-fleece-midlayer-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/halo-cropped-shell-charcoal.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/halo-cropped-shell-charcoal-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/halo-cropped-shell-charcoal-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/halo-cropped-shell-charcoal-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/halo-cropped-shell-charcoal-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/halo-cropped-shell-silver.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/halo-cropped-shell-silver-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/halo-cropped-shell-silver-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/halo-cropped-shell-silver-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/halo-cropped-shell-silver-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/horizon-windbreaker-charcoal.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/horizon-windbreaker-charcoal-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/horizon-windbreaker-charcoal-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/horizon-windbreaker-charcoal-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/horizon-windbreaker-charcoal-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/horizon-windbreaker.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/horizon-windbreaker-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/horizon-windbreaker-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/horizon-windbreaker-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/horizon-windbreaker-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/interval-tech-short-olive.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/interval-tech-short-olive-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/interval-tech-short-olive-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/interval-tech-short-olive-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/interval-tech-short-olive-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/interval-tech-short.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/interval-tech-short-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/interval-tech-short-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/interval-tech-short-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/interval-tech-short-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/linea-longline-vest-black.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/linea-longline-vest-black-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/linea-longline-vest-black-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/linea-longline-vest-black-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/linea-longline-vest-black-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/linea-longline-vest-stone.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/linea-longline-vest-stone-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/linea-longline-vest-stone-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/linea-longline-vest-stone-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/linea-longline-vest-stone-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/meridian-travel-pant-black.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/meridian-travel-pant-black-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/meridian-travel-pant-black-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/meridian-travel-pant-black-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/meridian-travel-pant-black-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/meridian-travel-pant.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/meridian-travel-pant-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/meridian-travel-pant-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/meridian-travel-pant-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/meridian-travel-pant-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/module-sling-bag-olive.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/module-sling-bag-olive-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/module-sling-bag-olive-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/module-sling-bag-olive-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/module-sling-bag-olive-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/module-sling-bag.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/module-sling-bag-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/module-sling-bag-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/module-sling-bag-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/module-sling-bag-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/nexa-contour-top-black.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/nexa-contour-top-black-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/nexa-contour-top-black-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/nexa-contour-top-black-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/nexa-contour-top-black-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/nexa-contour-top-cobalt.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/nexa-contour-top-cobalt-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/nexa-contour-top-cobalt-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/nexa-contour-top-cobalt-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/nexa-contour-top-cobalt-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/ridge-pullover-silver.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/ridge-pullover-silver-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/ridge-pullover-silver-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/ridge-pullover-silver-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/ridge-pullover-silver-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/ridge-pullover.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/ridge-pullover-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/ridge-pullover-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/ridge-pullover-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/ridge-pullover-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/strata-rain-shell-stone.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/strata-rain-shell-stone-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/strata-rain-shell-stone-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/strata-rain-shell-stone-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/strata-rain-shell-stone-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/strata-rain-shell.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/strata-rain-shell-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/strata-rain-shell-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/strata-rain-shell-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/strata-rain-shell-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/summit-utility-pant-stone.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/summit-utility-pant-stone-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/summit-utility-pant-stone-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/summit-utility-pant-stone-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/summit-utility-pant-stone-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/summit-utility-pant.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/summit-utility-pant-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/summit-utility-pant-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/summit-utility-pant-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/summit-utility-pant-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/thermal-base-layer-slate.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/thermal-base-layer-slate-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/thermal-base-layer-slate-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/thermal-base-layer-slate-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/thermal-base-layer-slate-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/thermal-base-layer.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/thermal-base-layer-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/thermal-base-layer-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/thermal-base-layer-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/thermal-base-layer-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/transit-daypack-black.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/transit-daypack-black-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/transit-daypack-black-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/transit-daypack-black-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/transit-daypack-black-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/transit-daypack.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/transit-daypack-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/transit-daypack-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/transit-daypack-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/transit-daypack-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/transit-vest-charcoal.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/transit-vest-charcoal-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/transit-vest-charcoal-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/transit-vest-charcoal-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/transit-vest-charcoal-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/transit-vest.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/transit-vest-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/transit-vest-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/transit-vest-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/transit-vest-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/traverse-parka-olive.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/traverse-parka-olive-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/traverse-parka-olive-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/traverse-parka-olive-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/traverse-parka-olive-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/traverse-parka.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/traverse-parka-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/traverse-parka-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/traverse-parka-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/traverse-parka-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/utility-belt-olive.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/utility-belt-olive-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/utility-belt-olive-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/utility-belt-olive-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/utility-belt-olive-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/utility-belt.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/utility-belt-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/utility-belt-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/utility-belt-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/utility-belt-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/vector-cargo-pant-olive.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/vector-cargo-pant-olive-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/vector-cargo-pant-olive-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/vector-cargo-pant-olive-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/vector-cargo-pant-olive-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/vector-cargo-pant.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/vector-cargo-pant-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/vector-cargo-pant-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/vector-cargo-pant-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/vector-cargo-pant-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/veil-wrap-overshirt-slate.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/veil-wrap-overshirt-slate-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/veil-wrap-overshirt-slate-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/veil-wrap-overshirt-slate-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/veil-wrap-overshirt-slate-1122.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "/images/products/veil-wrap-overshirt-white.png": {
+    "width": 1122,
+    "height": 1402,
+    "sources": [
+      {
+        "url": "/images/responsive/products/veil-wrap-overshirt-white-320.webp",
+        "width": 320
+      },
+      {
+        "url": "/images/responsive/products/veil-wrap-overshirt-white-640.webp",
+        "width": 640
+      },
+      {
+        "url": "/images/responsive/products/veil-wrap-overshirt-white-960.webp",
+        "width": 960
+      },
+      {
+        "url": "/images/responsive/products/veil-wrap-overshirt-white-1122.webp",
+        "width": 1122
+      }
+    ]
+  }
+}

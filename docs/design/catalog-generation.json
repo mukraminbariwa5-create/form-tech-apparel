@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-29",
+  "method": "built-in imagegen",
+  "status": "24 generated source images saved and visually reviewed; responsive derivatives/browser crop checks pending",
+  "images": [
+    {
+      "slug": "aeroshell-jacket",
+      "path": "public/images/products/aeroshell-jacket.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single light silver hooded technical shell jacket, full-length sealed front zipper, two angled zipped pockets, articulated sleeves. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Silver."
+    },
+    {
+      "slug": "vector-cargo-pant",
+      "path": "public/images/products/vector-cargo-pant.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single black tapered technical cargo trousers, two angular thigh cargo pockets, articulated knees, elastic waist and cuff straps. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Black."
+    },
+    {
+      "slug": "ridge-pullover",
+      "path": "public/images/products/ridge-pullover.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single deep cobalt blue hooded technical anorak pullover, half front zipper and single large kangaroo pocket. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Cobalt."
+    },
+    {
+      "slug": "transit-vest",
+      "path": "public/images/products/transit-vest.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single light stone cream sleeveless utility vest with pointed collar, five small flap pockets and center front zipper. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Stone."
+    },
+    {
+      "slug": "strata-rain-shell",
+      "path": "public/images/products/strata-rain-shell.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single charcoal grey minimal hooded rain shell jacket with storm flap over front zip, long clean silhouette. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Charcoal."
+    },
+    {
+      "slug": "horizon-windbreaker",
+      "path": "public/images/products/horizon-windbreaker.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single pale stone beige lightweight high neck windbreaker jacket, no hood, elastic cuffs, full zip, curved seam lines. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Stone."
+    },
+    {
+      "slug": "meridian-travel-pant",
+      "path": "public/images/products/meridian-travel-pant.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single slate grey straight leg travel trousers, clean tapered silhouette, subtle zipped side pockets, no cargo pockets. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Slate."
+    },
+    {
+      "slug": "traverse-parka",
+      "path": "public/images/products/traverse-parka.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single matte black knee length technical hooded parka coat, two large rectangular front pockets and covered zip. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Black."
+    },
+    {
+      "slug": "contour-tapered-pant",
+      "path": "public/images/products/contour-tapered-pant.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single stone beige tapered technical trousers with curved panel seams and flat waistband, no cargo pockets. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Stone."
+    },
+    {
+      "slug": "summit-utility-pant",
+      "path": "public/images/products/summit-utility-pant.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single charcoal wide straight leg utility trousers with reinforced knee panels and oversized square thigh pockets. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Charcoal."
+    },
+    {
+      "slug": "interval-tech-short",
+      "path": "public/images/products/interval-tech-short.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single black knee length technical shorts, drawstring elastic waist, zipped hand pockets and small side utility pocket. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Black."
+    },
+    {
+      "slug": "core-technical-tee",
+      "path": "public/images/products/core-technical-tee.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single white short sleeve technical crew neck t shirt, relaxed cut, tiny tonal side seam panels, no graphics. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: White."
+    },
+    {
+      "slug": "axis-softshell",
+      "path": "public/images/products/axis-softshell.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single slate blue grey stand collar softshell jacket without hood, full zip, articulated elbow seams and subtle chest pocket. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Slate."
+    },
+    {
+      "slug": "grid-fleece-midlayer",
+      "path": "public/images/products/grid-fleece-midlayer.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single charcoal grey grid textured fleece zip up midlayer jacket, low stand collar, raglan sleeves, no hood. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Charcoal."
+    },
+    {
+      "slug": "drift-lightweight-pant",
+      "path": "public/images/products/drift-lightweight-pant.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single muted olive lightweight nylon jogger trousers with elastic drawstring waist, elastic ankle cuffs and slim side pockets. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Olive."
+    },
+    {
+      "slug": "thermal-base-layer",
+      "path": "public/images/products/thermal-base-layer.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single dark charcoal fitted long sleeve crew neck base layer shirt, fine rib knit texture, subtle flat seam panels, no pockets. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Charcoal."
+    },
+    {
+      "slug": "altitude-half-zip",
+      "path": "public/images/products/altitude-half-zip.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single slate blue grey long sleeve technical half zip top, tall collar, slim clean silhouette, no hood and no pockets. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Slate."
+    },
+    {
+      "slug": "module-sling-bag",
+      "path": "public/images/products/module-sling-bag.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single black compact rectangular nylon crossbody sling bag with broad adjustable webbing strap, zip top, single front zipped pocket. Straight-on front view, whole product fully visible and centered with generous even margins. Tasteful studio tabletop product arrangement. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Black."
+    },
+    {
+      "slug": "flux-overshirt",
+      "path": "public/images/products/flux-overshirt.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single black long sleeve technical overshirt, pointed shirt collar, snap front fastenings, two broad rectangular chest pockets. Straight-on front view, whole product fully visible and centered with generous even margins. Invisible mannequin/ghost form, natural fabric structure, no visible human or hanger. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Black."
+    },
+    {
+      "slug": "transit-daypack",
+      "path": "public/images/products/transit-daypack.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single slate grey structured nylon daypack backpack with roll top closure, black shoulder straps and one vertical front zipper. Straight-on front view, whole product fully visible and centered with generous even margins. Tasteful studio tabletop product arrangement. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Slate."
+    },
+    {
+      "slug": "fold-beanie",
+      "path": "public/images/products/fold-beanie.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single charcoal grey rib knitted cuffed beanie hat, short rounded crown and wide folded cuff, no labels. Straight-on front view, whole product fully visible and centered with generous even margins. Tasteful studio tabletop product arrangement. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Charcoal."
+    },
+    {
+      "slug": "circuit-cap",
+      "path": "public/images/products/circuit-cap.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single black unbranded five panel technical nylon cap with curved brim, subtle side eyelets and adjustable back strap. Straight-on front view, whole product fully visible and centered with generous even margins. Tasteful studio tabletop product arrangement. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Black."
+    },
+    {
+      "slug": "utility-belt",
+      "path": "public/images/products/utility-belt.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single black woven webbing utility belt with flat matte black rectangular adjustable buckle, laid in a loose oval showing the full belt. Straight-on front view, whole product fully visible and centered with generous even margins. Tasteful studio tabletop product arrangement. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Black."
+    },
+    {
+      "slug": "field-pouch",
+      "path": "public/images/products/field-pouch.png",
+      "prompt": "Use case: product-mockup. Asset type: original e-commerce catalog product photograph for fictional FORM/TECH technical apparel. Subject: a single muted olive small rectangular zip utility pouch with subtle ripstop fabric texture, short black wrist loop, single front pocket. Straight-on front view, whole product fully visible and centered with generous even margins. Tasteful studio tabletop product arrangement. Seamless uniform pale cool grey background #E9EBED, soft diffused studio lighting, subtle natural shadow. Photorealistic premium material texture, carefully constructed realistic seams and hardware. Restrained futuristic technical fashion, minimalist editorial catalog, portrait 4:5 composition. No text, letters, branding, labels, logos, watermark, price, frame, collage or extra garments. Exact color: Olive."
+    }
+  ]
+}

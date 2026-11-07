@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>FORM/TECH</title>
+  <rect width="64" height="64" rx="6" fill="#050505"/>
+  <path d="M10 14h28v7H17v8h18v7H17v14h-7z" fill="#fff"/>
+  <path d="m34 50 16-36h8L42 50z" fill="#145DFF"/>
+</svg>
