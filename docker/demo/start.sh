@@ -17,9 +17,9 @@ export DB_PASSWORD="${DB_PASSWORD:-$(head -c 24 /dev/urandom | od -An -tx1 | tr 
 PGBIN="$(ls -d /usr/lib/postgresql/*/bin | head -1)"
 PGDATA=/tmp/pgdata
 rm -rf "$PGDATA" && mkdir -p "$PGDATA" && chown postgres "$PGDATA"
-su postgres -s /bin/sh -c "$PGBIN/initdb -D $PGDATA --auth-local=peer --auth-host=scram-sha-256 >/dev/null"
+su postgres -s /bin/sh -c "$PGBIN/initdb -D $PGDATA --encoding=UTF8 --locale=C.UTF-8 --auth-local=peer --auth-host=scram-sha-256 >/dev/null"
 su postgres -s /bin/sh -c "$PGBIN/pg_ctl -D $PGDATA -o '-c listen_addresses=127.0.0.1 -c shared_buffers=32MB -c max_connections=20' -l /tmp/postgres.log -w start"
-su postgres -s /bin/sh -c "psql -q -c \"CREATE USER ${DB_USERNAME} PASSWORD '${DB_PASSWORD}'\" && psql -q -c \"CREATE DATABASE ${DB_DATABASE} OWNER ${DB_USERNAME}\""
+su postgres -s /bin/sh -c "psql -q -c \"CREATE USER ${DB_USERNAME} PASSWORD '${DB_PASSWORD}'\" && psql -q -c \"CREATE DATABASE ${DB_DATABASE} OWNER ${DB_USERNAME} ENCODING 'UTF8' TEMPLATE template0\""
 
 php artisan migrate --force --no-interaction
 php artisan db:seed --force --no-interaction
