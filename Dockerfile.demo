@@ -1,0 +1,66 @@
+# FORM/TECH public demo: the whole store in one container for Render's free plan.
+# Apache + PHP 8.4 serve Laravel, and PostgreSQL runs inside the same container. Every start
+# creates a fresh database with the fictional catalogue, so the demo resets itself.
+# The production setup (Caddy + PHP-FPM + SSR + separate PostgreSQL) stays in Dockerfile.
+
+# ---- 1. Front-end build ------------------------------------------------------
+FROM node:24-bookworm-slim AS frontend
+WORKDIR /build
+COPY package*.json ./
+RUN npm ci --no-audit --no-fund
+COPY vite.config.ts tsconfig.json ./
+COPY resources resources
+RUN npm run build
+
+# ---- 2. PHP packages ---------------------------------------------------------
+FROM composer:2 AS vendor
+WORKDIR /app
+COPY composer.json composer.lock ./
+RUN composer install --no-dev --no-interaction --prefer-dist --no-progress --no-scripts --no-autoloader --ignore-platform-reqs
+COPY . .
+RUN composer dump-autoload --optimize --no-dev --no-scripts
+
+# ---- 3. Runtime: Apache + PHP 8.4 + PostgreSQL --------------------------------
+FROM php:8.4-apache-bookworm
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends postgresql libpq-dev libicu-dev libzip-dev \
+    && docker-php-ext-install pdo_pgsql intl bcmath zip opcache \
+    && apt-get purge -y libpq-dev libicu-dev libzip-dev && apt-get autoremove -y \
+    && apt-get install -y --no-install-recommends libpq5 libicu72 libzip4 \
+    && rm -rf /var/lib/apt/lists/* \
+    && a2enmod rewrite headers \
+    && mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/php.ini"
+
+WORKDIR /var/www/html
+COPY --from=vendor /app ./
+COPY --from=frontend /build/public/build ./public/build
+COPY docker/php-production.ini /usr/local/etc/php/conf.d/99-form-tech.ini
+COPY docker/demo/apache.conf /etc/apache2/sites-available/000-default.conf
+COPY docker/demo/mpm.conf /etc/apache2/mods-available/mpm_prefork.conf
+COPY docker/demo/start.sh /usr/local/bin/form-tech-demo
+
+ENV APP_ENV=production \
+    APP_DEBUG=false \
+    LOG_CHANNEL=stderr \
+    DB_CONNECTION=pgsql \
+    DB_HOST=127.0.0.1 \
+    DB_PORT=5432 \
+    DB_DATABASE=form_tech \
+    DB_USERNAME=form_tech \
+    CACHE_STORE=file \
+    SESSION_DRIVER=database \
+    SESSION_ENCRYPT=true \
+    SESSION_SECURE_COOKIE=true \
+    QUEUE_CONNECTION=sync \
+    MAIL_MAILER=log \
+    INERTIA_SSR_ENABLED=false \
+    PORT=10000
+
+RUN chmod +x /usr/local/bin/form-tech-demo \
+    && mkdir -p /var/www/health && echo ok > /var/www/health/up.txt \
+    && rm -f bootstrap/cache/*.php \
+    && php artisan package:discover --ansi \
+    && chown -R www-data:www-data storage bootstrap/cache
+
+EXPOSE 10000
+CMD ["form-tech-demo"]

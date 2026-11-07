@@ -1,0 +1,18 @@
+# Render Blueprint for the FORM/TECH public demo (free plan).
+# On render.com: New > Blueprint > pick this repository.
+# The store and its PostgreSQL database run in one container and start fresh on every restart.
+services:
+  - type: web
+    name: form-tech-demo
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile.demo
+    healthCheckPath: /up
+    autoDeploy: true
+    envVars:
+      # Public demo staff account, shown in the README so visitors can try the staff area.
+      # It is recreated with the demo data on every restart.
+      - key: ADMIN_EMAIL
+        value: staff@formtech.demo
+      - key: ADMIN_PASSWORD
+        value: formtech-demo-staff

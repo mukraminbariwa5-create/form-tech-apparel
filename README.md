@@ -1,6 +1,12 @@
 # FORM/TECH
 
-A fictional technical-apparel commerce portfolio project. Database-backed storefront, guest demo checkout and protected staff management run locally. No payments, email, real shipping or fulfillment. Hosting selection and public deployment are deferred at the owner's request.
+A fictional technical-apparel commerce portfolio project. Database-backed storefront, guest demo checkout and protected staff management run locally. No payments, email, real shipping or fulfillment. A public demo runs on Render's free plan.
+
+**Live demo:** https://form-tech-demo.onrender.com (free hosting: the first visit can take about a minute to wake up). Staff area: sign in at `/login` with `staff@formtech.demo` / `formtech-demo-staff`. The demo starts fresh whenever the server restarts.
+
+## Public demo (Render)
+
+`render.yaml` and `Dockerfile.demo` run the whole store in one free Render container: Apache and PHP 8.4 serve Laravel, and PostgreSQL runs inside the same container. Each start creates a new database, seeds the fictional catalogue (30 products, 218 variants, 8 collections) and the public demo staff account, so edits made by visitors disappear on the next restart. Server-side rendering is off in the demo to fit the free plan's memory. On render.com: **New → Blueprint →** pick this repository. The production setup below (Caddy, PHP-FPM, SSR and a separate PostgreSQL) is unchanged.
 
 The authoritative scope is [FORM_TECH_REACT_PORTFOLIO_BUILD_SPEC.md](FORM_TECH_REACT_PORTFOLIO_BUILD_SPEC.md). Read [IMPLEMENTATION_STATUS.md](IMPLEMENTATION_STATUS.md) before continuing work.
 
